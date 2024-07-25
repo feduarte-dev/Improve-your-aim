@@ -1,6 +1,6 @@
 An alien shooter using phazer 3
 
-https://felipe-dev.itch.io/improve-your-aim
+Play it >> https://felipe-dev.itch.io/improve-your-aim
 
 
 
